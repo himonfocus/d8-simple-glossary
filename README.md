@@ -50,18 +50,3 @@ CONFIGURATION
 -------------
 
 No configuration is needed.
-
-
-MAINTAINERS
------------
-
-Current maintainers:
- * Himanshu Batra (himanshu_batra_grazitti)
- https://www.drupal.org/u/himanshu_batra_grazitti
-
-This project has been sponsored by:
- * graziti-interactive
-   Founded in 2008, Grazitti has been helping companies power their businesses
-   with its best-in-class web development services using the latest 
-   CMS' like Drupal and open source technologies.  
-   Visit: http://grazitti.com/ for more information.
