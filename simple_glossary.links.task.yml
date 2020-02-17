@@ -1,0 +1,28 @@
+simple_glossary:
+    title: Simple Glossary List
+    route_name: simple_glossary_list_view
+    base_route: simple_glossary_list_view
+simple_glossary_add_term:
+    title: Add New Term
+    route_name: simple_glossary_add_term
+    base_route: simple_glossary_list_view
+simple_glossary_import:
+    title: Import Terms
+    route_name: simple_glossary_import
+    base_route: simple_glossary_list_view
+simple_glossary_import_uploadcsv:
+    title: Import Terms Upload CSV
+    route_name: simple_glossary_import
+    parent_id: simple_glossary_import
+simple_glossary_import_taxonomy:
+    title: Import Terms
+    route_name: simple_glossary_import_taxonomy
+    parent_id: simple_glossary_import
+simple_glossary_configuration:
+    title: Configuration
+    route_name: simple_glossary_configuration
+    base_route: simple_glossary_list_view
+simple_glossary_help:
+    title: Help
+    route_name: simple_glossary_help
+    base_route: simple_glossary_list_view
